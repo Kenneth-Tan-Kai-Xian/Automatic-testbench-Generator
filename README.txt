@@ -6,4 +6,5 @@ How to run the program?
 2) For first time users, running the exe file might take a while.
 
 3) To learn how to operate the application, user can take a look at 
-   my thesis under "result and discussion" section for case study regarding the application
+   guide.pdf
+   
